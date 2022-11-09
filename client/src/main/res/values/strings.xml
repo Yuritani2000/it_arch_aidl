@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDLClient</string>
+    <string name="bind_process">Bind Process</string>
+    <string name="unbind_process">Unbind Process</string>
+    <string name="kill_process">Kill Process</string>
+    <string name="process_test">Process Test</string>
+</resources>
